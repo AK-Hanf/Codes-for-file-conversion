@@ -24,7 +24,7 @@ Codes-for-file-conversion/
 │   ├── README.md                      # Conversion utilities documentation
 │   ├── code                           # Core conversion functions
 │   ├── exel to json                   # Excel to JSON converter
-│   └── ...
+│   └── txt to json                    # txt to JSON converter
 │
 └── folder/                            # Metadata templates
     ├── README.md                      # Metadata templates guide
