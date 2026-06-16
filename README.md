@@ -11,7 +11,7 @@ This repository contains Python utilities and metadata templates designed to str
 - 🔄 **Excel to JSON Conversion** - Convert Excel files (.xlsx, .xls) to structured JSON format
 - 📝 **Text to JSON Conversion** - Transform text files into JSON with proper formatting
 - 🏷️ **Metadata Management** - Insert and manage metadata for converted files
-- 📊 **Analysis Templates** - Pre-built metadata collection templates for 30+ characterization techniques
+- 📊 **Analysis Templates** - Pre-built metadata collection templates for 20+ characterization techniques
 - 🔬 **Scientific Analysis Support** - Templates for materials science and chemistry techniques
 - 📁 **Batch Processing** - Handle multiple files efficiently
 
